@@ -1,9 +1,11 @@
 {
-  "require" : {
-    "silex/silex": "~1.1",
-    "monolog/monolog": "~1.7"
-  },
-  "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  }
+    "require": {
+        "ext-bcmath": "*",
+        "ext-memcached": "*",
+        "ext-mongo": "*",
+        "ext-ftp": "*",
+        "ext-soap": "*",
+        "ext-mbstring": "*",
+        "ext-xsl": "*"
+     }
 }
