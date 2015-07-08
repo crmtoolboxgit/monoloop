@@ -16,16 +16,16 @@
        "execute": {
            "inArguments": [],
            "outArguments": [],
-           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/execute"
+           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/index.html"
        }
    },
    "configurationArguments": {
        "applicationExtensionKey": "monoloop_profile_split",
        "save": {
-           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/save"
+           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/index.html"
        },
        "publish": {
-           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/publish"
+           "url": "https://monoloop.herokuapp.com/activities/setcustomvar/index.html"
        },
        "validate": {
            "uri": "https://monoloop.herokuapp.com/activities/setcustomvar/validate"
